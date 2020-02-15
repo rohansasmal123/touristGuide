@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357224310783",
+    "firebase_url": "https://tourist-guide-9482c.firebaseio.com",
+    "project_id": "tourist-guide-9482c",
+    "storage_bucket": "tourist-guide-9482c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357224310783:android:49e18ef34c388e6d47a9ca",
+        "android_client_info": {
+          "package_name": "connect.kiit.tnp.touristguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357224310783-sqrpacs9c43jm2llhcaucs1rss9vqbr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "connect.kiit.tnp.touristguide",
+            "certificate_hash": "114edc3c1fdec6cfc2cc1163b90c702759d45fca"
+          }
+        },
+        {
+          "client_id": "357224310783-8q51jq0lkqjpctb3ue02tf8tjs3vi4po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgsQEw0ltDSIIfNPwExm70TKAmXhSN18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357224310783-8q51jq0lkqjpctb3ue02tf8tjs3vi4po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
